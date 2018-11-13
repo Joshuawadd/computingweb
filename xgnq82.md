@@ -8,6 +8,6 @@
 	Excellent - HTML is all valid
 5. Evidence of collaboration
 	Outstanding
-	*The Author info was not written by author
-	*The contributions are balanced, each member making a good number of commits and having good input into the project.
-	*Most of the content was completed well in advance of the dealine, with only a few small changes added in the last 24 hours.
+	- The Author info was not written by author
+	- The contributions are balanced, each member making a good number of commits and having good input into the project.
+	- Most of the content was completed well in advance of the dealine, with only a few small changes added in the last 24 hours.
